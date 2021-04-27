@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://jn2clark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jn2clark/jn2clark.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "13092433.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCcrvZ2MXXI324yga2YBq3ag/featured"
+  youtube          : "UCcrvZ2MXXI324yga2YBq3ag/featured"
   wikipedia        :
 
 
