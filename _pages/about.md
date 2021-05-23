@@ -35,6 +35,6 @@ Using projection methods to solve Sudoku [Link](https://github.com/jn2clark/sudo
 
 "Three-dimensional imaging of dislocation propagation during crystal growth and dissolution" *Nature Materials* - demonstrating the imaging of dislocations within nano-crystals as they grow ([Link](https://www.nature.com/articles/nmat4320)). Also highlighted for "News and views" ([Link](https://www.nature.com/articles/nmat4334?platform=hootsuite)).  This work also allowed imaging of defects within battery nano-particles and was subsequently published in *Science* ([Link](https://science.sciencemag.org/content/348/6241/1344.abstract)).
 
-"Imaging transient melting of a nanocrystal using an X-ray laser" *PNAS* - a continuation of the work on developing ultra-fast imaging of nanomaterials ([Link](https://www.pnas.org/content/112/24/7444.short)). Also highlighted in *Nature Physics* research highlights ([Link](www.nature.com/nphys/journal/v11/n7/full/nphys3401.html )).
+"Imaging transient melting of a nanocrystal using an X-ray laser" *PNAS* - a continuation of the work on developing ultra-fast imaging of nanomaterials ([Link](https://www.pnas.org/content/112/24/7444.short)). Also highlighted in *Nature Physics* research highlights ([Link](www.nature.com/nphys/journal/v11/n7/full/nphys3401.html)).
 
 A full list of academic papers can be found in the Google Scholar profile link.
