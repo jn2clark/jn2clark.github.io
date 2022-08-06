@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Applied Scientist working at Amazon Robotics AI (RAI) within the machine learning and computer vision team working on [Robin](https://www.amazon.science/latest-news/amazon-robotics-see-robin-robot-arms-in-action).  Prior to RAI, I was a Senior Machine Learning Scientist at Amazon (Alexa new technologies), working at the intersection of the smart home and IoT (researching, developing, and prototyping novel machine learning algorithms for new technologies).  Previously I was a physicist (Stanford, University College London) working to develop lensless imaging techniques by solving inverse problems using non-convex optimization methods.  This research resulted in a number of significant achievements in nanoscale imaging (see contact information for Google scholar link to publications list). 
+Working on something new in the semantic/vector/multi-modal search space. Reach out if this interests you!
+
+Previously, I was a machine learning (ML) lead working at Amazon Robotics AI (RAI) within the ML and computer vision team. I worked on deep learning and ML for (production) computer vision and robotics. I designed and led the implementation of the continual learning and deep learning models for the perception system of Amazon's Robin robot (https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it). This encompasses individual models as well as system level ML.  Prior to RAI, I was leading the development of ML for new technologies, working at the intersection of the smart home and IoT (researching, developing, and prototyping novel machine learning algorithms for new technologies).  Before Amazon, I worked at Stitch Fix doing a mix of data science, machine learning and operations research. Prior to industry, I was a physicist working to develop lensless imaging techniques by solving inverse problems using non-convex optimization methods.  I was the recipient of a Volkswagen Foundation Paul-Ewald Fellowship while working at Stanford and prior to that was working at University College London. This research resulted in a number of significant achievements in nanoscale imaging and high impact publications in journals such as Science, Nature Physics, Nature Materials, PNAS, and Physical Review Letters (see Google scholar link to publications list). 
 
 See below for more links to work and projects.
 
 ### Amazons Robin robot
 [Robin](https://www.amazon.science/latest-news/amazon-robotics-see-robin-robot-arms-in-action)
+and [here](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it).
 
 ### Training neural networks with iterative projection algorithms
 Using projection based optimization to train neural networks [Link](https://github.com/jn2clark/nn-iterated-projections).
