@@ -10,17 +10,30 @@ redirect_from:
 
 Co-founder @marqo.ai. [Building the next generation of search](https://github.com/marqo-ai/marqo).
 
-Prior to Marqo, I was a machine learning (ML) lead working at Amazon Robotics AI (RAI) within the ML and computer vision team. I designed and led the implementation of [Janus](https://www.amazon.science/latest-news/amazon-robotics-continual-learning-reinforcement-learning-janus-framework) a [continual learning](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it) framework. I also led the development of the deep learning models for the perception system of Amazon's [Robin robot](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it). Prior to RAI, I was leading the development of ML for new technologies, working at the intersection of the smart home and IoT.  Before Amazon, I worked at Stitch Fix doing a mix of data science, machine learning and operations research. Prior to industry, I was a physicist working to develop lensless imaging techniques by solving inverse problems using non-convex optimization methods.  I was the recipient of a [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/foundation) [Paul-Ewald Fellowship](https://www.volkswagenstiftung.de/en/funding/free-electron-laser-science-peter-paul-ewald-fellowships-at-lcls-in-stanford) while working at Stanford and prior to that I was working at University College London. This research resulted in a number of significant achievements in nanoscale imaging and high impact publications in journals such as Science, Nature Physics, Nature Materials, Nature Communications, PNAS, and Physical Review Letters (see [Google scholar link](https://scholar.google.com/citations?user=Eighd10AAAAJ&hl=en) to publications list). 
+### GPT & LLM integration/augmented retrieval/retrieval augmented generation
+[Medium](https://medium.com/@jesse_894/from-iron-manual-to-ironman-augmenting-gpt-for-fast-editable-memory-to-enable-context-aware-cf702d11e667?source=friends_link&sk=f416728762c47d015c5d87022041eed0)
+[Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/GPT-examples/article/article.md)
 
-See below for more links to work and projects.
 
-### Stable diffusion and tensor search
+### Image search with localization
+[Medium](https://medium.com/@jesse_894/image-search-with-localization-and-open-vocabulary-reranking-using-marqo-yolox-clip-and-owl-vit-9c636350bf66?source=friends_link&sk=b4e94d9d4095a2b8b60c5d1904a60825)
+[Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/ImageSearchLocalization/article.md)
+
+
+### Searching over stable diffusion generated images 
 [Medium](https://medium.com/@jesse_894/combining-stable-diffusion-with-semantic-search-generating-and-categorising-100k-hot-dogs-afeeddea9d81)
 [Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/StableDiffusion/hot-dog-100k.md)
 
 ### Marqo and tensor search
 [Tensor search](https://medium.com/@jesse_894/introducing-marqo-build-cloud-native-tensor-search-applications-in-minutes-9cb9a05a1736)
 [Marqo](https://github.com/marqo-ai/marqo)
+
+
+## Background
+
+Prior to Marqo, I was a machine learning (ML) lead working at Amazon Robotics AI (RAI) within the ML and computer vision team. I designed and led the implementation of [Janus](https://www.amazon.science/latest-news/amazon-robotics-continual-learning-reinforcement-learning-janus-framework) a [continual learning](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it) framework. I also led the development of the deep learning models for the perception system of Amazon's [Robin robot](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it). Prior to RAI, I was leading the development of ML for new technologies, working at the intersection of the smart home and IoT.  Before Amazon, I worked at Stitch Fix doing a mix of data science, machine learning and operations research. Prior to industry, I was a physicist working to develop lensless imaging techniques by solving inverse problems using non-convex optimization methods.  I was the recipient of a [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/foundation) [Paul-Ewald Fellowship](https://www.volkswagenstiftung.de/en/funding/free-electron-laser-science-peter-paul-ewald-fellowships-at-lcls-in-stanford) while working at Stanford and prior to that I was working at University College London. This research resulted in a number of significant achievements in nanoscale imaging and high impact publications in journals such as Science, Nature Physics, Nature Materials, Nature Communications, PNAS, and Physical Review Letters (see [Google scholar link](https://scholar.google.com/citations?user=Eighd10AAAAJ&hl=en) to publications list). 
+
+See below for more links to work and projects.
 
 ### Amazons Robin robot
 [Janus](https://www.amazon.science/latest-news/amazon-robotics-continual-learning-reinforcement-learning-janus-framework), [Robin](https://www.amazon.science/latest-news/amazon-robotics-see-robin-robot-arms-in-action)
