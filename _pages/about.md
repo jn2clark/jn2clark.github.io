@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Co-founder @marqo.ai. [Building the next generation of search](https://github.com/marqo-ai/marqo).
+Co-founder [@marqo.ai](https://www.marqo.ai/). [Building the next generation of search](https://github.com/marqo-ai/marqo).
+
+
+### Contributor podcast - "Vector Search for Humans - Marqo with Jesse Clark"
+[Listen](https://www.contributor.fyi/marqo)
+
+
+### Multimodal vector search with personalization
+[Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md)
+
 
 ### GPT & LLM integration/augmented retrieval/retrieval augmented generation
 [Medium](https://medium.com/@jesse_894/from-iron-manual-to-ironman-augmenting-gpt-for-fast-editable-memory-to-enable-context-aware-cf702d11e667?source=friends_link&sk=f416728762c47d015c5d87022041eed0)
