@@ -19,6 +19,10 @@ Co-founder [@marqo.ai](https://www.marqo.ai/). [Building the next generation of 
 [Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md)
 
 
+### Open CLIP benchmarks
+[Google sheets](https://docs.google.com/spreadsheets/d/1ftHKf4MovnAyKhGyi05e4DPAumZSIBflE_yuQRsuFIA/edit?usp=sharing)
+
+
 ### GPT & LLM integration/augmented retrieval/retrieval augmented generation
 [Medium](https://medium.com/@jesse_894/from-iron-manual-to-ironman-augmenting-gpt-for-fast-editable-memory-to-enable-context-aware-cf702d11e667?source=friends_link&sk=f416728762c47d015c5d87022041eed0)
 [Markdown](https://github.com/marqo-ai/marqo/blob/mainline/examples/GPT-examples/article/article.md)
